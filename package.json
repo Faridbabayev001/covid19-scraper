@@ -1,0 +1,36 @@
+{
+  "name": "covid19-scraper",
+  "version": "1.0.0",
+  "description": "NPM Package to retrieve worldometers' live statistics of the Covid-19 pandemic. Scraper of Worldometers.info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Faridbabayev001/covid19-scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Faridbabayev001/covid19-scraper/issues"
+  },
+  "author": {
+    "name": "Farid Babayev",
+    "email": "farid.b@code.edu.az",
+    "social": {
+      "github": "https://github.com/Faridbabayev001",
+      "facebook": "https://facebook.com/Faridbabayev001"
+    },
+  "license": "MIT",
+  "keywords": [
+    "Worldometers.info",
+    "spider",
+    "scraper",
+    "covid19",
+    "COVID-19",
+    "coronavirus",
+    "pandemic"
+  ],
+  "dependencies": {
+    "html-to-json": "^0.6.0"
+  }
+}
